@@ -14,7 +14,7 @@ Tomorrow if I have time I will work on adding a dropdown so that it lists all th
 
 Please review and let me know. 
 
-# update 6 April 2020
+### update 6 April 2020
 
 Added new code to make the search fields into selectors, this required another network request. 
 
