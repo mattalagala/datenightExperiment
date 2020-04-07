@@ -13,3 +13,13 @@ So basically the project as is covers all our Phase 1 project requirements, afte
 Tomorrow if I have time I will work on adding a dropdown so that it lists all the category options instead of typing it in. 
 
 Please review and let me know. 
+
+# update 6 April 2020
+
+Added new code to make the search fields into selectors, this required another network request. 
+
+Also added code where the unused category will return to default. 
+
+I will be doing the same to the drinks selection. 
+
+
