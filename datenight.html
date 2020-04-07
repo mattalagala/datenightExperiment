@@ -29,17 +29,27 @@
         <div id="mybox">
             <div id="foodsec">
                 <p>What are you in the mood for?</p>
+                
                 <form id='foodSearchForm'>
-                <input type="text" id='foodSearch'>
-                <!-- <select id='dropFoodSearch'></select> -->
-                <button type="submit" class="btn btn-secondary btn-lg" id="generateMealBtn">Let's Eat</button>
+                    <!-- <input type="text" id='foodSearch'> -->
+                    <div><strong><p>Choose by Category:</p></strong></div>
+                    <select id='categorySelector'>                    
+                        <option value='Select Category' class='default'>Select Category</option>
+                    </select>
+                    <div><strong><p id='areaText'>Choose by Area:</p></strong></div>
+                    <select id='areaSelector'>                    
+                        <option value='Select Area' class='default'>Select Area</option>
+                    </select>
+                    <!-- <select id='dropFoodSearch'></select> -->
+                    <!-- <button type="submit" class="btn btn-secondary btn-lg" id="generateMealBtn">Let's Eat</button> -->
                 </form>
             </div>
             <div id="drinksec">
                 <p>What would you like to drink?</p>
                 <form id='drinkSearchForm'>
-                <input type="text" id="drinkSearch">
-                <button type="submit" class="btn btn-secondary btn-lg" id="generateCocktailBtn">Let's Drink</button>
+                    <select id='drinkSelector'>                    
+                        <option value='Choose By Drink Name'class='default'>Choose By Drink Name</option>
+                    </select>
                 </form>
             </div>
             <div id="bothsec">

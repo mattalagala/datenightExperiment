@@ -74,6 +74,15 @@ h1 {
     padding-bottom: 30px;
 }
 
+select {
+    width: 250px;
+}
+
+#areaText {
+
+    margin-top: 25px;
+}
+
 /*-- This is code is for the Gradient -->*/
 
 #canvas-image {
