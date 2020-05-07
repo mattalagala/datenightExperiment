@@ -1,6 +1,8 @@
 # datenight
 
-#I decided to make a separate repository for what I've done because I had to make a lot of changes to the HTML files for the search functionality to work. 
+## I decided
+
+to make a separate repository for what I've done because I had to make a lot of changes to the HTML files for the search functionality to work. 
 
 I also added the 'Granim.js' (Gradient Animation) up top, in order for that to work I had to change the 'DATE NIGHT' h2 tag and make it into a picture. 
 
